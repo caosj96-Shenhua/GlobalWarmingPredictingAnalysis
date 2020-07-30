@@ -11,10 +11,15 @@ To analyze various aspects that causes the global warming on earth and predict t
 
 • Base on the data for past 20 years predicting the number of endangered species in future.
 
-Algorithm used:
+# Algorithm used:
 
-RNN-LSTM 
+Long short-term memory (LSTM)
 
-Autoregressive integrated moving average - ARIMA
+Recurrent neural network (RNN)
 
-ANN-keras
+Autoregressive integrated moving average (ARIMA model)
+
+Artificial neural network (ANN)
+
+Keras neural network library
+
